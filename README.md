@@ -1,1 +1,2 @@
-# the-eternal-chamber
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
